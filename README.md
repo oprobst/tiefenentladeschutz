@@ -1,0 +1,2 @@
+# tiefenentladeschutz
+Tiefenentladeschutz für Akkutank
