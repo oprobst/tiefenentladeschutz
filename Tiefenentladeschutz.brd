@@ -1623,7 +1623,7 @@ design rules under a new name.</description>
 </element>
 <element name="U$5" library="0liver" package="LEER" value="PIN-GENERIC" x="0.5" y="0.5"/>
 <element name="R3" library="rcl" package="R0603" value="100k" x="50.32" y="15.61" rot="R180"/>
-<element name="R12" library="eagle-ltspice" package="R1206" value="20k" x="22.82" y="41.56" rot="R180">
+<element name="R12" library="eagle-ltspice" package="R1206" value="100k" x="22.82" y="41.56" rot="R180">
 <attribute name="SPICEMODEL" value="NONE" x="22.82" y="41.56" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="SPICEPREFIX" value="R" x="22.82" y="41.56" size="1.778" layer="27" rot="R180" display="off"/>
 </element>

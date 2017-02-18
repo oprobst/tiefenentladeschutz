@@ -6003,7 +6003,7 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <part name="R10" library="eagle-ltspice" deviceset="R" device="R1206" value="12k"/>
 <part name="R6" library="eagle-ltspice" deviceset="R" device="R1206" value="5,6k"/>
 <part name="R3" library="rcl" deviceset="R-EU_" device="R0603" value="100k"/>
-<part name="R12" library="eagle-ltspice" deviceset="R" device="R1206" value="20k"/>
+<part name="R12" library="eagle-ltspice" deviceset="R" device="R1206" value="100k"/>
 <part name="U$3" library="0liver" deviceset="IRLML6346" device=""/>
 <part name="U$4" library="0liver" deviceset="PIN" device="BIG"/>
 <part name="U$6" library="0liver" deviceset="PIN" device="1.27"/>
