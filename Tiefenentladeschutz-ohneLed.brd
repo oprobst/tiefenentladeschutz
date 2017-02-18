@@ -464,7 +464,7 @@ design rules under a new name.</description>
 <attribute name="SPICEMODEL" value="NONE" x="17.2" y="16.9" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="SPICEPREFIX" value="R" x="17.2" y="16.9" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
-<element name="R12" library="eagle-ltspice" package="R1206" value="20k" x="13.02" y="26.66" rot="R180">
+<element name="R12" library="eagle-ltspice" package="R1206" value="100k" x="13.02" y="26.66" rot="R180">
 <attribute name="SPICEMODEL" value="NONE" x="13.02" y="26.66" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="SPICEPREFIX" value="R" x="13.02" y="26.66" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
